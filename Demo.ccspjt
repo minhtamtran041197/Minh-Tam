@@ -1,0 +1,16 @@
+[PROJECT]
+Target=Demo.hex
+Processor_Text=PIC16F887
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+FileList=Demo.c
+[Directories]
+Include=D:\PIC\PICC\Devices\;D:\PIC\PICC\Drivers\
+[Demo.c]
+Type=4
+[mru-list]
+1=Demo.c
+[Units]
+Count=1
+1=Demo (main)
